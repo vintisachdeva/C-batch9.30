@@ -1,0 +1,140 @@
+class  --> category --> Logically exist
+
+
+ 		blueprint --> properties
+		
+
+object --> physically exist
+
+int val = 10;	// statically / compile time --> less no of errors
+
+val  =60;
+
+val  = "data";
+
+
+int val = 10;
+int Val = 20;
+
+
+
+
+val = 10
+
+Val = 20
+
+
+int float char long short signed unsigned -->built in type --> low level / mnemonics 
+class and object  --> c compiler 
+
+
+
+
+
+// data members --> variables
+
+// state
+
+int value = 10; 			// Data Members
+char name[20] = "Ram Kumar"; 
+
+
+// Member functions
+
+void main(){}		// Predefined function
+
+void print(){		// member functions
+
+}
+
+Q) What is the state and behaviour of object?
+
+--> state -: data members --> variables
+
+--> behaviour -: member functions --> functions 
+
+
+
+
+
+
+
+
+
+int $val%1;	// error
+
+
+
+int val  = 10
+
+
+
+10001
+
+11001
+
+00110
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fluctuating --> int a = 50
+
+		a++;
+
+constant --> const int a = 50;
+		a = 60;	//error
+
+
+
+int a, b, c,d ;
+const int F, G, H, I , ROLLNO;
+
+operands and operators
+
+
+sum =  a + b;
+
+
+
+
+
+
+
+
+
+
+
+
+
+f = 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
