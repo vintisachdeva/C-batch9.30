@@ -1,0 +1,13 @@
+Inheritance:
+
+--> when a class has some feature and that features are required by another class. Shivam inherit sunil class
+
+
+--> when some features of parent class are derived into child class than this term is referred as Inheritance.
+
+Types of Inheritance:
+
+1. Single Inheritance
+2. Multi-level Inheritance
+3. Multiple Inheritance
+4. Hierarical Inheritance
